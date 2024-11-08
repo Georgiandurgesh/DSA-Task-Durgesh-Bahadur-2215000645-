@@ -227,6 +227,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0282-expression-add-operators) |
 | [1044-find-common-characters](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1044-find-common-characters) |
@@ -247,6 +248,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0002-add-two-numbers](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0273-integer-to-english-words) |
@@ -256,6 +258,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -287,4 +290,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0279-perfect-squares) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
