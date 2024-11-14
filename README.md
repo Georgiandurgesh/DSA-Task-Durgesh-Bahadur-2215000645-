@@ -207,6 +207,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0179-largest-number](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2032-largest-odd-number-in-string) |
 | [2756-buy-two-chocolates](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
@@ -253,6 +254,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0282-expression-add-operators](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0282-expression-add-operators) |
 | [1044-find-common-characters](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,6 +281,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0273-integer-to-english-words](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0282-expression-add-operators) |
+| [2032-largest-odd-number-in-string](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
