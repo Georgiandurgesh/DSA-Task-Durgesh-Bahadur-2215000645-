@@ -257,11 +257,13 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2634-minimum-common-value](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0451-sort-characters-by-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
 | ------- |
@@ -281,6 +283,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2032-largest-odd-number-in-string](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2032-largest-odd-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,12 +297,14 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2634-minimum-common-value](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2211-k-radius-subarray-averages) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
 |  |
 | ------- |
