@@ -174,6 +174,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2634-minimum-common-value](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2756-buy-two-chocolates](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2756-buy-two-chocolates) |
@@ -243,6 +244,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2164-two-best-non-overlapping-events](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2756-buy-two-chocolates) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -259,6 +261,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1813-maximum-erasure-value](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1813-maximum-erasure-value) |
 | [2634-minimum-common-value](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
@@ -378,6 +381,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0067-add-binary](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0067-add-binary) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -390,6 +394,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2164-two-best-non-overlapping-events](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Quickselect
 |  |
