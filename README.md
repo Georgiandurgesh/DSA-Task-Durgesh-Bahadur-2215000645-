@@ -157,6 +157,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0215-kth-largest-element-in-an-array](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0455-assign-cookies) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0787-sliding-puzzle) |
 | [0875-longest-mountain-in-array](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0875-longest-mountain-in-array) |
@@ -216,6 +217,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0279-perfect-squares) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0875-longest-mountain-in-array](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0875-longest-mountain-in-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2164-two-best-non-overlapping-events) |
 ## Enumeration
