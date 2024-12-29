@@ -166,6 +166,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1813-maximum-erasure-value) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -219,6 +220,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0279-perfect-squares](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0279-perfect-squares) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0875-longest-mountain-in-array](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0875-longest-mountain-in-array) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2164-two-best-non-overlapping-events) |
 ## Enumeration
 |  |
@@ -297,6 +299,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0451-sort-characters-by-frequency](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0451-sort-characters-by-frequency) |
 | [1044-find-common-characters](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1078-remove-outermost-parentheses) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2032-largest-odd-number-in-string](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2032-largest-odd-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
