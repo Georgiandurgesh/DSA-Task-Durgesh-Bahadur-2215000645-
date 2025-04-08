@@ -154,6 +154,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0088-merge-sorted-array](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0179-largest-number) |
@@ -368,6 +369,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0029-divide-two-integers](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/0268-missing-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Georgiandurgesh/DSA-Task-Durgesh-Bahadur-2215000645-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
